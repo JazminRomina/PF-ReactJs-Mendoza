@@ -1,0 +1,69 @@
+.title{
+    font-size: 2rem;
+    padding: 30px;
+    text-align: center;
+}
+
+.container{
+    position: relative;
+    top: 100px;
+}
+
+.formBox{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.inputBox{
+    font-size: 1.2rem;
+    padding: 7px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.btnBox{
+    background-color: brown;
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+    font-size: 1.3rem;
+    color: white;
+    cursor: pointer;
+}
+
+.purchaseBox{
+    position: relative;
+    top: 200px;
+}
+.purchaseTitle{
+    font-size: 2rem;
+    text-align: center;
+}
+
+.idPurchase{
+    font-size: 1.8rem;
+    text-align: center;
+    padding:10px;
+}
+
+.dontForget{
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+.btnReturn{
+    position: relative;
+    left: 750px;
+    top: 20px;
+    background-color: brown;
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+    font-size: 1.3rem;
+    color: white;
+    cursor: pointer;
+}

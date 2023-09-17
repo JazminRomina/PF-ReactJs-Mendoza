@@ -1,0 +1,6 @@
+.gridProd{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2em 2em;
+    padding: 40px;
+}

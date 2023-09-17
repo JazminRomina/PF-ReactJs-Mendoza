@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Dekko&family=Play:wght@400;700&display=swap');
+
+.boxBtn{
+    display: flex;
+    flex-direction: row;
+}
+
+.btnMaxMin{
+    padding: 10px;
+    background-color: brown;
+    border: 0;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.number{
+    font-size: 1.7rem;
+    font-family: 'Dekko', cursive;
+    padding: 10px;
+    margin: 10px
+}
+
+.btnAdd{
+    padding: 10px;
+    border: 0;
+    margin: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: brown;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
