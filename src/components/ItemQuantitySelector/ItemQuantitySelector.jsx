@@ -1,6 +1,6 @@
 import {useContext, useState} from "react"
 import styles from './ItemQuantitySelector.module.css'
-import {CartContext} from "../../context/CartContext"
+import {CartContext} from "../../context/CartContext.jsx"
 
 export const ItemQuantitySelector = ({item}) => {
   const [count, setCount] = useState(1)
